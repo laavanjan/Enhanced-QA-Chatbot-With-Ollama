@@ -16,9 +16,9 @@ This chatbot leverages the power of Ollama to run large language models locally.
 *   **llama3.2:** One of the supported language models.
 *   **gemma:2b:** The other supported language model.
 
-![Tech Stack Image]([img1.png])🖼️
-![Tech Stack Image]([img2.png])🖼️
-![Tech Stack Image]([img3.png])🖼️
+<img src="img1.png" alt="Tech Stack Image" width="700" height="350">
+<img src="img2.png" alt="Tech Stack Image" width="700" height="350">
+<img src="img3.png" alt="Tech Stack Image" width="700" height="350">
 
 ## Features
 
